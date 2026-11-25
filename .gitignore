@@ -1,0 +1,6 @@
+.venv/
+backup/
+backup_v2/
+__pycache__/
+*.o
+mysh
